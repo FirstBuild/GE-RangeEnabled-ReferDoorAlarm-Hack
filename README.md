@@ -19,6 +19,7 @@ npm install
  1. Open ReferDoorStatusUpdater.js on laptop A
  2. Replace "my_firebase_url" with your personal firebase url
  3. Connect your green bean to laptop A and the refrigerator and do the following:
+
  ``````
  node ./ReferDoorStatusUpdater.js
  ``````
@@ -27,6 +28,7 @@ npm install
  1. Open ReferDoorStatusMonitorAlarm.js on laptop B
  2. Replace "my_firebase_url" with your personal firebase url
  3. Connect your green bean to laptop B and the range and do the following:
+ 
  ``````
  node ./ReferDoorStatusMonitorAlarm.js
  ``````
