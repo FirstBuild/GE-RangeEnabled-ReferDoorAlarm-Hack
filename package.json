@@ -1,0 +1,28 @@
+{
+  "name": "green-bean-examples",
+  "version": "0.0.0",
+  "description": "Example applications for the GEMakers GEA SDK.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GEMakers/green-bean-examples.git"
+  },
+  "keywords": [
+    "gea",
+    "ge",
+    "appliances"
+  ],
+  "author": "William Burke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GEMakers/green-bean-examples/issues"
+  },
+  "homepage": "https://github.com/GEMakers/green-bean-examples",
+  "dependencies": {
+    "firebase": "^2.2.3",
+    "green-bean": "git+https://github.com/GEMakers/green-bean.git"
+  }
+}
